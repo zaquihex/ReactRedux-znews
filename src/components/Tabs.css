@@ -1,0 +1,17 @@
+.ant-card {
+    margin: 5px;
+    display: inline-block;
+    vertical-align: text-top;
+}
+
+.ant-tabs-top-content {
+    /*text-align: center;*/
+}
+
+.ant-card-body {
+    display: inline;
+}
+
+.react-reveal {
+    display: inline-block;
+}

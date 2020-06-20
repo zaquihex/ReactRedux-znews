@@ -1,0 +1,21 @@
+.ant-page-header-heading-extra {
+    float: right;
+    display: flex;
+}
+.ant-page-header-ghost {
+    height: inherit;
+}
+.site-page-header div{
+    color: rgba(0, 0, 0, 0.45);
+}
+.ant-progress-text {
+    color: rgba(0, 0, 0, 0.45);
+}
+
+.ant-page-header-heading-extra {
+    padding-top: 10px;
+}
+
+.ant-statistic-content-value {
+    color: rgba(0, 0, 0, 0.45);
+}

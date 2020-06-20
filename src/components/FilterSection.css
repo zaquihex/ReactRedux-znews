@@ -1,0 +1,13 @@
+.ant-radio-button-wrapper {
+    margin-right: 5px;
+    margin-left: 10px;
+    margin-top: 5px
+}
+
+.ant-menu-sub.ant-menu-inline {
+    padding-left: 45px;
+}
+
+.ant-menu-submenu-title {
+    padding-left: 3px !important;
+}

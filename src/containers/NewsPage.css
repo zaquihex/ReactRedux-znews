@@ -1,0 +1,30 @@
+.ant-layout-sider-children {
+    background-color: transparent;
+    padding-top: 12px;
+    /*border-bottom: 1px solid #f0f2f5;*/
+}
+.ant-layout-sider {
+    background-color: transparent !important;
+}
+
+.ant-timeline-item-last .ant-timeline-item-content{
+    min-height: 0px;
+}
+
+.ant-timeline {
+    background-color: #FFFFFF;
+    margin-top: 20px;
+    margin-left: 12px;
+}
+
+.ant-timeline-item {
+    padding-bottom: 26px;
+}
+
+.ant-timeline-item-last {
+    padding-bottom: 0px;
+}
+
+.ant-menu-submenu-title .anticon {
+    margin-right: 0px !important;
+}
